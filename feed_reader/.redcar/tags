@@ -1,0 +1,13 @@
+1300566698
+Application	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/config/application.rb	  class Application 
+ApplicationController	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/test/performance/browsing_test.rb	class BrowsingTest 
+FeedReader	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/config/application.rb	module FeedReader
+HomeController	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/app/controllers/home_controller.rb	class HomeController 
+HomeControllerTest	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/test/functional/home_controller_test.rb	class HomeControllerTest 
+HomeHelper	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/app/helpers/home_helper.rb	module HomeHelper
+HomeHelperTest	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/test/unit/helpers/home_helper_test.rb	class HomeHelperTest 
+TestCase	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/test/test_helper.rb	class ActiveSupport::TestCase
+index	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/app/controllers/home_controller.rb	  def index
+test_homepage	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/test/performance/browsing_test.rb	  def test_homepage
