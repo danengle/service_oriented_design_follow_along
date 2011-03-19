@@ -1,4 +1,4 @@
-1300571763
+1300574392
 Application	/home/dan/workspace/service_oriented_design_follow_along/services/vote_service/config/application.rb	  class Application 
 ApplicationController	/home/dan/workspace/service_oriented_design_follow_along/services/vote_service/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/dan/workspace/service_oriented_design_follow_along/services/vote_service/app/helpers/application_helper.rb	module ApplicationHelper
