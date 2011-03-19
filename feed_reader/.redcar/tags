@@ -1,4 +1,4 @@
-1300568592
+1300568907
 Activity	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/app/models/activity.rb	class Activity 
 ActivityTest	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/test/unit/activity_test.rb	class ActivityTest 
 Application	/home/dan/workspace/service_oriented_design_follow_along/feed_reader/config/application.rb	  class Application 
